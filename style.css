@@ -1,0 +1,49 @@
+/* For table.html */
+h1 {
+  text-align: left;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif; 
+}
+
+table {
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  border-collapse: collapse;
+  width: 50%
+}
+
+td, th {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 5px;
+  font-size: small;
+}
+
+th {
+  background-color: lightcoral;
+  font-style: italic;
+}
+
+/* For div_Span.html */
+
+div {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: hotpink;
+  text-align: center;
+}
+
+#middle {
+  color: blueviolet;
+  text-align: left;
+  font-size: x-large;
+}
+
+.name {
+  font-style: italic;
+  color: royalblue;
+  font-weight: bold;
+}
